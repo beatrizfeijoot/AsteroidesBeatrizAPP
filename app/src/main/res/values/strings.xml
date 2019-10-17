@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AsteroidesBeatrizAPP</string>
+    <string name="tituloAplicacion">AsteroidesBeatriz</string>
+    <string name="Arrancar">arrancar</string>
+    <string name="Configurar">configurar</string>
+    <string name="Acercade">acerca de</string>
+    <string name="Salir">salir</string>
+    <string name="etacercade">APLICACIÓN ASTEROIDES: Hola soy Beatriz Feijoo Tain.Este programa ha sido desarrollado com o ejemplo para demostrar cómo se pueden lanzar nuevas actividades desde la actividad principal.</string>
+    <string name="Macercade">Acerca De</string>
+    <string name="action_settings">Configuracion</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AsteroidesBeatrizAPP</string>
+    <string name="tituloAplicacion">AsteroidesBeatriz</string>
+    <string name="Arrancar">to boot</string>
+    <string name="Configurar">settings</string>
+    <string name="Acercade">about </string>
+    <string name="Salir">exit</string>
+    <string name="etacercade">ASTEROID APPLICATION: Hi I\'m Beatriz Feijoo Tain. This program has been developed as an example to demonstrate how new activities can be launched from the main activity.</string>
+    <string name="Macercade">About</string>
+    <string name="action_settings">Settings</string>
+</resources>
